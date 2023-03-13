@@ -1,0 +1,6 @@
+{
+  "appId": "com.manzatech.sellmyshow",
+  "appName": "sellmyshow",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
